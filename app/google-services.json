@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738804068929",
+    "firebase_url": "https://androidburgerproject.firebaseio.com",
+    "project_id": "androidburgerproject",
+    "storage_bucket": "androidburgerproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738804068929:android:4c0bd9699ce1909ab0ccc0",
+        "android_client_info": {
+          "package_name": "fr.esgi.androidburgerproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738804068929-vcdpo24hep9675u7j4tj4vcu5p9rqutd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.esgi.androidburgerproject",
+            "certificate_hash": "05d9eec6bc2f8d3e97023416cfae8085f7ade3fb"
+          }
+        },
+        {
+          "client_id": "738804068929-nt49tjdbnc290f5ju58pd937mnvj6etv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjDSIuebSu0fAOOm45Nesb1EJ1LZcqY7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738804068929-nt49tjdbnc290f5ju58pd937mnvj6etv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
